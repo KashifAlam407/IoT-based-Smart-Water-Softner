@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+    <title>EcoWell Smart Softener</title>
+
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>EcoWell Smart Softener Dashboard</h1>
+
+    <div class="card">
+
+        <p>Flow Rate :
+            <span id="flow">--</span>
+        </p>
+
+        <p>Pressure :
+            <span id="pressure">--</span>
+        </p>
+
+        <p>Salt Level :
+            <span id="salt">--</span>
+        </p>
+
+        <p>TDS :
+            <span id="tds">--</span>
+        </p>
+
+        <p>WiFi :
+            <span id="wifi">--</span>
+        </p>
+
+        <p>State :
+            <span id="state">--</span>
+        </p>
+        <div class="sensor">
+            <span>Valve</span>
+            <span id="valve">--</span>
+        </div>
+
+        <div class="sensor">
+            <span>Regeneration</span>
+            <span id="regeneration">--</span>
+        </div>
+
+        <div class="sensor">
+            <span>Alerts</span>
+            <span id="alerts">--</span>
+        </div>
+
+        <div class="sensor">
+            <span>Last Updated</span>
+            <span id="lastUpdated">--</span>
+        </div>
+
+    </div>
+
+    <h2>Controls</h2>
+
+    <button onclick="sendCommand('OPEN_VALVE')">
+        Open Valve
+    </button>
+
+    <button onclick="sendCommand('CLOSE_VALVE')">
+        Close Valve
+    </button>
+
+    <button onclick="sendCommand('START_REGEN')">
+        Start Regeneration
+    </button>
+
+    <button onclick="sendCommand('STOP_REGEN')">
+        Stop Regeneration
+    </button>
+
+    <script src="app.js"></script>
+
+</body>
+
+</html>
