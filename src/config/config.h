@@ -9,8 +9,8 @@
 #define DEVICE_NAME         "EcoWell Smart Softener"
 
 /************ WiFi ************/
-#define WIFI_SSID           "U&ME 6th floor 2"
-#define WIFI_PASSWORD       "Password@12345"
+#define WIFI_SSID           "your ssid"
+#define WIFI_PASSWORD       "your password"
 
 /************ MQTT ************/
 #define MQTT_HOST           "14273b0d5919486292320d12986e227c.s1.eu.hivemq.cloud"

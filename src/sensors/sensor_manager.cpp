@@ -14,9 +14,9 @@ void SensorManager::begin()
 void SensorManager::update()
 {
     // sensorData.flowRate = random(120, 200) / 10.0;
-    sensorData.flowRate = 2.0;
+    sensorData.flowRate = 40.0;
     // sensorData.pressure = random(20, 40) / 10.0;
-    sensorData.pressure = 5;
+    sensorData.pressure = 10;
     sensorData.tds = random(150, 250);
 
     // sensorData.saltLevel -= 0.05;

@@ -184,6 +184,12 @@ bool App::canStartRegeneration(SensorData data)
     }
 
 
+    if (data.flowRate < 5.0)
+    {
+        regenerationRejectReason = "LOW_FLOW_RATE";
+        return false;
+    }
+
     if (data.pressure < 1.0)
     {
         regenerationRejectReason = "LOW_PRESSURE";
