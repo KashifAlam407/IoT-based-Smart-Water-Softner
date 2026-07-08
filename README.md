@@ -146,18 +146,20 @@ Displays:
 Replace with your screenshots.
 
 ```text
-images/dashboard.png
-images/platformio.png
-images/serial-monitor.png
+images/image1.png
+images/image2.png
+images/images3.png
 ```
 
-## Demo Video
+-----------------------------------------------------------------------
 
-Replace with your YouTube link.
+### Video Demonstration
 
-```
-https://youtu.be/YOUR_VIDEO_LINK
-```
+[![ros2_trajectory_control](https://img.youtube.com/vi/QMzAnXUuIg8/0.jpg)](https://www.youtube.com/watch?v=QMzAnXUuIg8)
+
+▶ Click the image above to watch the full demo video on YouTube.
+
+-----------------------------------------------------------------------
 
 ## Running
 
