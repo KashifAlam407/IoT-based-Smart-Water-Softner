@@ -164,7 +164,7 @@ Displays:
 
 ### Video Demonstration
 
-[![ros2_trajectory_control](https://img.youtube.com/vi/QMzAnXUuIg8/0.jpg)](https://www.youtube.com/watch?v=QMzAnXUuIg8)
+[![ros2_trajectory_control](https://img.youtube.com/vi/xP2obVV_vCo&t=27s.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo&t=27s)
 
 ▶ Click the image above to watch the full demo video on YouTube.
 
