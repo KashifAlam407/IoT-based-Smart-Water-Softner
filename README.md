@@ -143,13 +143,22 @@ Displays:
 
 ## Screenshots
 
-Replace with your screenshots.
+## Dashboard
 
-```text
-images/image1.png
-images/image2.png
-images/images3.png
-```
+![Dashboard](images/Dashboard.png)
+![Dashboard](images/Dashboard2.png)
+
+
+## Serial Monitor
+
+![Serial Monitor](images/Serial_Monitor.png)
+![Serial Monitor](images/Serial_Monitor2.png)
+
+
+## Code File
+
+![Code File](images/Code_File.png)
+
 
 -----------------------------------------------------------------------
 
