@@ -13,11 +13,11 @@
 #define WIFI_PASSWORD       "your password"
 
 /************ MQTT ************/
-#define MQTT_HOST           "14273b0d5919486292320d12986e227c.s1.eu.hivemq.cloud"
+#define MQTT_HOST           "you mqqt host url"
 #define MQTT_PORT           8883
 
-#define MQTT_USERNAME   "kashif_ecowell"
-#define MQTT_PASSWORD   "kashif_ecowell"
+#define MQTT_USERNAME   "mqtt username"
+#define MQTT_PASSWORD   "mqtt password"
 
 #define MQTT_PUB_TOPIC      "ecowell/softener/data"
 #define MQTT_SUB_TOPIC      "ecowell/softener/cmd"
