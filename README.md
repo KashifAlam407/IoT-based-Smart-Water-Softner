@@ -4,6 +4,16 @@
 
 > **Note:** This project was originally developed as part of an IoT Engineer evaluation and then expanded into a complete end-to-end project.
 
+-----------------------------------------------------------------------
+
+### Video Demonstration
+
+[![Watch Demo](https://img.youtube.com/vi/xP2obVV_vCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo)
+
+▶ Click the image above to watch the full demo video on YouTube.
+
+-----------------------------------------------------------------------
+
 ## Project Overview
 
 This project demonstrates a complete IoT pipeline from an embedded device to a cloud-connected dashboard.
@@ -158,15 +168,6 @@ Displays:
 ## Code File
 
 ![Code File](images/Code_File.png)
-
-
------------------------------------------------------------------------
-
-### Video Demonstration
-
-[![Watch Demo](https://img.youtube.com/vi/xP2obVV_vCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo)
-
-▶ Click the image above to watch the full demo video on YouTube.
 
 -----------------------------------------------------------------------
 
