@@ -164,7 +164,11 @@ Displays:
 
 ### Video Demonstration
 
-[![ros2_trajectory_control](https://img.youtube.com/vi/xP2obVV_vCo&t=27s.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo&t=27s)
+[![Smart IoT Based Water Softner](https://img.youtube.com/vi/xP2obVV_vCo&t=27s.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo&t=27s)
+
+----------------------------------------------------------
+
+[![Watch Demo](https://img.youtube.com/vi/xP2obVV_vCo/maxresdefault.jpg)](https://www.youtube.com/watch?v=xP2obVV_vCo)
 
 ▶ Click the image above to watch the full demo video on YouTube.
 
