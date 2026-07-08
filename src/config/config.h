@@ -30,7 +30,7 @@
 #define LOW_SALT_THRESHOLD        20
 #define HIGH_TDS_THRESHOLD        500
 #define LOW_PRESSURE_THRESHOLD    1.0
-#define NO_FLOW_THRESHOLD         0.5
+#define NO_FLOW_THRESHOLD         5.0
 
 #define REGENERATION_REQUIRED_THRESHOLD 30
 #endif

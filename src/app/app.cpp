@@ -1,5 +1,5 @@
 #include "app.h"
-#include "../config/config.h";
+#include "../config/config.h"
 
 String stateToString(DeviceState state)
 {
