@@ -146,9 +146,9 @@ Displays:
 Replace with your screenshots.
 
 ```text
-images/dashboard.png
-images/platformio.png
-images/serial-monitor.png
+images/image1.png
+images/image2.png
+images/images3.png
 ```
 
 -----------------------------------------------------------------------
